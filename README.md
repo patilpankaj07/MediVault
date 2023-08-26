@@ -108,7 +108,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Setup Firebase [Firebase](https://firebase.google.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Bhavesh29patil/Blog-Website
+   git clone https://github.com/Bhavesh29patil/Blog-Website.git
    ```
 3. Install NPM packages
    ```sh
